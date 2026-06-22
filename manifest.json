@@ -1,0 +1,17 @@
+{
+  "name": "Roundtable — conversations, dealt one card at a time",
+  "short_name": "Roundtable",
+  "description": "A conversation card game. Pick a themed deck, set ground rules, and deal prompts one card at a time.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0a0a14",
+  "theme_color": "#0a0a14",
+  "categories": ["games", "social", "lifestyle"],
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
