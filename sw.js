@@ -1,5 +1,5 @@
 // Roundtable service worker
-const CACHE = 'roundtable-v3';
+const CACHE = 'roundtable-v7';
 const CORE = [
   './',
   './index.html',
